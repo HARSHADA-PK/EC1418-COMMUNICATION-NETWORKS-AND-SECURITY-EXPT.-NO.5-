@@ -44,6 +44,10 @@ tls
 8.	Observe that the actual application data is encrypted and is not directly readable in the packet capture.
 # OUTPUT
 
+<img width="1055" height="622" alt="image" src="https://github.com/user-attachments/assets/6cd56e77-9fae-4636-b22a-e93b4d0edd64" />
+
+<img width="1058" height="693" alt="image" src="https://github.com/user-attachments/assets/768acd8f-3fda-45ad-8299-e50736044e7e" />
+
 # RESULT
 Thus, the network traffic was successfully captured and analyzed using Wireshark. HTTP traffic was found to transmit data without encryption, making it vulnerable to interception and modification. .
 
